@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3587
     wikipedia: http://en.wikipedia.org/wiki/Guy_Boothby
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37081#In-Strange-CompanyA-Story-of-Chili-and-the-Southern-Seas
 gutenberg_issued: '2011-08-14'
 gutenberg_type: Text
 identifiers:
